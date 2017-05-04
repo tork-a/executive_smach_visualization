@@ -2,8 +2,8 @@
 Changelog for package smach_viewer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.0 (2017-05-04)
+------------------
 * support for Qt5 (Kinetic)
 * update CMakeLists.txt, package.xml, setup.py, smach_viewer.py for new xdot structure
 * add necessary lines in xdot/__init_\_.py https://github.com/jbohren/xdot/pull/14
